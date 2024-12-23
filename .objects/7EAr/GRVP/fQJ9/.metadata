@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ACME System 1 - Vendor Inventory",
+  "Type": "Screen",
+  "Id": "fQJ9g8ISVk6mbaUv07srcA",
+  "Reference": "7YaBNXr-J0-aKQXPgaLvUA/fQJ9g8ISVk6mbaUv07srcA",
+  "ParentRef": "7YaBNXr-J0-aKQXPgaLvUA/GRVPPaWSgkqsLgVTvy8HiQ",
+  "Created": "2024-12-23T13:44:09.5164683Z",
+  "Updated": "2024-12-23T13:44:09.5164683Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

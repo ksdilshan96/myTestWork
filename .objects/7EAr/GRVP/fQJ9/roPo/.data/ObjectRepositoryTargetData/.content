@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mM5zlEiW2kC5jPzb9cnsfQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/inventory" CVScreenId="a455b00d-fba0-4cb5-b681-a3108332aa5f" CvElementArea="342, 646, 161, 46" CvTextArea="357, 660, 132, 21" CvTextArgument="Check Inventory" CvType="Button" DesignTimeRectangle="344, 649, 158, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl id='buttonOrder' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='buttonOrder' tag='BUTTON' type='button' class='btn btn-primary' aaname='Check Inventory' check:innerText='Check Inventory' /&gt;" Guid="134ac2ba-008f-4310-a1a8-1a95b6108ab0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Vendor Inventory' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a455b00d-fba0-4cb5-b681-a3108332aa5f" CvTextArea="342, 559, 115, 17" CvTextArgument="Vendor Code:" CvType="Text" DesignTimeRectangle="344, 557, 114, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Vendor Code:' check:innerText='Vendor Code:' /&gt;" Guid="ab4a7cf5-c2b5-4603-af56-a4aa4b2e2a5c" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eb7a0543148a715cabd68c1b4c4e8ac2.png" xmlns="">0GI5aAAwGF0i9rWcgO90YBw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

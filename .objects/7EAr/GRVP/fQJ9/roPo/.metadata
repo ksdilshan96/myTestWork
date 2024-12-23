@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check Inventory",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "roPoJ_f9xkeJyBE1MlEeaA",
+  "Reference": "7YaBNXr-J0-aKQXPgaLvUA/roPoJ_f9xkeJyBE1MlEeaA",
+  "ParentRef": "7YaBNXr-J0-aKQXPgaLvUA/fQJ9g8ISVk6mbaUv07srcA",
+  "Created": "2024-12-23T13:53:44.4458641Z",
+  "Updated": "2024-12-23T13:53:44.4458641Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

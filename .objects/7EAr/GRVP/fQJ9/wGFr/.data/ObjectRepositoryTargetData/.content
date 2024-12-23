@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SXyW8pyLgke5NKqeyU4gig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/inventory" CVScreenId="6cde5938-a1c6-4078-9c34-f179b3955524" CvElementArea="341, 586, 612, 46" CvType="InputBox" DesignTimeRectangle="344, 588, 606, 42" DesignTimeScaleFactor="1.25" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='vendorTaxId' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='vendorTaxId' tag='SELECT' type='' class='form-control' aaname='' /&gt;" Guid="ae960e93-820e-42fb-8ea5-abfdfef5342d" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Vendor Inventory' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6cde5938-a1c6-4078-9c34-f179b3955524" CvTextArea="342, 559, 115, 17" CvTextArgument="Vendor Code:" CvType="Text" DesignTimeRectangle="344, 557, 114, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Vendor Code:' check:innerText='Vendor Code:' /&gt;" Guid="ed761dd9-2e76-40ba-add2-332f0da56ce9" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a489e33df6a1b74ce81e58d6a2475a6c.png" xmlns="">0_1ZnMtxJ-E6FawjKI5JzEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Lgx8cuiIuk6_4O3YqB4ZvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="bdf963ff-0136-479e-afcc-d5ed8bbbcd4b" CvElementArea="331, 799, 78, 45" CvTextArea="347, 811, 46, 22" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="334, 802, 74, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="e820b5a2-50d3-4974-a95e-8327b200e201" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bdf963ff-0136-479e-afcc-d5ed8bbbcd4b" CvElementArea="410, 799, 218, 46" CvTextArea="427, 812, 185, 20" CvTextArgument="Forgot Your Password?" CvType="Button" DesignTimeRectangle="413, 802, 214, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                                 Forgot Your Password?                             ' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                                 Forgot Your Password?                             ' tag='A' type='' class='btn bg-warning' check:innerText='Forgot Your Password?' /&gt;" Guid="460150d9-fba4-4bb6-bd03-4cbc75c2517a" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e319848ad83422b5f3e299fc8ad5951a.png" xmlns="">0fEzqdEolqEmodIMgFbO9_A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vendor Code",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "wGFrFMJno0a5Cz7GK0GwAQ",
+  "Reference": "7YaBNXr-J0-aKQXPgaLvUA/wGFrFMJno0a5Cz7GK0GwAQ",
+  "ParentRef": "7YaBNXr-J0-aKQXPgaLvUA/fQJ9g8ISVk6mbaUv07srcA",
+  "Created": "2024-12-23T13:47:08.9315206Z",
+  "Updated": "2024-12-23T13:47:08.9315206Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

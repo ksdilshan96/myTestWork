@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8hc2yUrPtUepfg82a84dOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="679e3ad7-3a02-41f7-ac12-28767773f392" CvElementArea="331, 894, 255, 62" CvTextArea="432, 912, 85, 21" CvTextArgument="Vendors" CvType="Button" DesignTimeRectangle="334, 897, 250, 57" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                  Vendors' parentid='dashmenu' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                  Vendors' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' check:innerText='Vendors' /&gt;" Guid="6263d123-9c37-4c1f-96dd-bdbd24e25273" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="679e3ad7-3a02-41f7-ac12-28767773f392" CvElementArea="331, 824, 255, 62" CvTextArea="435, 844, 77, 20" CvTextArgument="Checks" CvType="Button" DesignTimeRectangle="334, 827, 250, 57" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                  Checks' parentid='dashmenu' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                  Checks' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' check:innerText='Checks' /&gt;" Guid="4fd6ff81-d202-45c9-bba7-837a495bb44e" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3eeb944fbb9b9ef331d799e9640fdd2a.png" xmlns="">0lrbxqlott0iR0YirwjrPdw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
